@@ -8,6 +8,7 @@ Shailendra Bhatt
 Registration Number: 25BAI10699
 
 GitHub: https://github.com/bhattshailendra
+
 LinkedIn: https://www.linkedin.com/in/bhattshailendra/
 
 ## Features
