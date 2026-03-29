@@ -21,16 +21,16 @@ A simple Python-based movie recommendation system that suggests movies based on 
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/your-username/movie-recommender.gi
 cd movie-recommender
 ```
 
-Or simply download `movies.py` directly.
+Or simply download `code.py` directly.
 
 ### 2. Run the Script
 
 ```bash
-python movies.py
+python code.py
 ```
 
 ---
@@ -97,7 +97,7 @@ Minimum rating (1-10, default 7.5): 8.0
 
 ## Extending the Movie Database
 
-To add more movies, edit the `movies` dictionary in `movies.py`:
+To add more movies, edit the `movies` dictionary in `code.py`:
 
 ```python
 movies = {
@@ -111,5 +111,5 @@ movies = {
 ```
 movie-recommender/
 │
-└── movies.py       # Main script with movie database and recommendation logic
+└── code.py       # Main script with movie database and recommendation logic
 └── README.md       # Project documentation
