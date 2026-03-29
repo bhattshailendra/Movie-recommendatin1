@@ -5,6 +5,7 @@ A simple Python-based movie recommendation system that suggests movies based on 
 ## 👤 Author
 
 Shailendra Bhatt
+
 Registration Number: 25BAI10699
 
 GitHub: https://github.com/bhattshailendra
