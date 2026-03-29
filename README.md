@@ -21,8 +21,7 @@ A simple Python-based movie recommendation system that suggests movies based on 
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/your-username/movie-recommender.gi
-cd movie-recommender
+git clone https://github.com/bhattshailendra/Movie-recommendatin1.git
 ```
 
 Or simply download `code.py` directly.
