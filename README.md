@@ -2,6 +2,14 @@
 
 A simple Python-based movie recommendation system that suggests movies based on your preferred genres and minimum rating threshold.
 
+## 👤 Author
+
+Shailendra Bhatt
+Registration Number: 25BAI10699
+
+GitHub: https://github.com/bhattshailendra
+LinkedIn: https://www.linkedin.com/in/bhattshailendra/
+
 ## Features
 
 - 25 pre-loaded popular movies across multiple genres
@@ -112,3 +120,4 @@ movie-recommender/
 │
 └── code.py       # Main script with movie database and recommendation logic
 └── README.md       # Project documentation
+
